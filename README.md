@@ -1,4 +1,4 @@
-# Understanding Algorithms
+# Grokking Algorithms
 
 The objective of this repository is to storage algorithms and examples from the book [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230).
 
